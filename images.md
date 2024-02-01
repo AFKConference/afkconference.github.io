@@ -2,4 +2,4 @@
 
 #Fotos relacionadas à conferência:
 
-<img src="/assets/logo.jpg" alt="logo" style="height: 100px; width:100px;"/>
+<img src="/assets/logo.jpg" alt="logo" style="height: 400px; width:400px;"/>
