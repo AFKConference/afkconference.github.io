@@ -8,5 +8,7 @@
 <a href="/assets/Assumed Breach Model - g0ttfrid.pdf">Assumed Breach Model - g0ttfrid</a>
 <a href="/assets/Mobile Hacking - Uma introdução ao tema - evi3w.pdf">Mobile Hacking - Uma introdução ao tema - evi3w</a>
 <a href="/assets/Bypassing Flutter SSL Pinning - evi3w.pdf">Bypassing Flutter SSL Pinning - evi3w</a>
+<a href="/assets/Defeating Anti-Reversing Tricks - Eneto.pdf">Defeating Anti-Reversing Tricks - Eneto</a>
+<a href="/assets/Yara Rules- Eneto.pdf">Yara Rules - Eneto</a>
 
 # Palestra(s) realizada(s) no ano de 2024.
