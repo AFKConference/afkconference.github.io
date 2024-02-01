@@ -1,5 +1,4 @@
-# 0x02 - Talks
+# Palestra(s) realizada(s) no ano de 2023.
 
-## 2023
 
-## 2024
+# Palestra(s) realizada(s) no ano de 2024.
