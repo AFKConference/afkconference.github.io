@@ -6,7 +6,6 @@ permalink: /
 
 # Bem vindo(a)!
 <br>
-<h1>
 AFK.conf foi criado com o intuito de movimentar a cena hacker/SI em Aracaju, proporcionando encontros mensais com apresentações técnicas de segurança ofensiva e defensiva, em um ambiente informal acompanhado com algumas cervejas.
 <br>
 <br>
@@ -18,6 +17,7 @@ Interessados serão convidados.
 <br>
 <br>
 [+] Encontros
+<br>
 Os encontros não serão gravados nem existe a possibilidade de palestras online. Todas as palestras deverão ser proporcionadas por pessoas que estão fisicamente no local para pessoas que estão fisicamente no local (AFK ¯\_(ツ)_/¯).
 <br>
 <br>
@@ -28,4 +28,3 @@ Para manter a rotatividade e instigar para que todos tenham o espaço e experien
 [!] Trate todos com respeito!
 
 <br>
-</h1>
