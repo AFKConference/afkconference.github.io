@@ -1,3 +1,5 @@
-# 0x03 - Fotos relacionadas à conferência:
+# 0x03 - Imagens
 
-<img src="/assets/afk.png" alt="logo" style="height: 100px; width:100px;"/>
+#Fotos relacionadas à conferência:
+
+<img src="/assets/logo.jpg" alt="logo" style="height: 100px; width:100px;"/>
