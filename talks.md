@@ -5,7 +5,7 @@
 | #   | Data  | Responsável          | Tema                                               | Link do Arquivo                                     |
 |-----|-------|----------------------|----------------------------------------------------|-----------------------------------------------------|
 | 1   | 15/12 | Euler Neto           | Investigando Transações em Bitcoin                 | [Link](inserir_link_aqui)                           |
-| 1   | 15/12 | Yuri Maia            | Offensive Powershell 101                           | [Link](/assets/Offensive Powershell 101 - g0ttfrid.pdf)                           |
+| 1   | 15/12 | Yuri Maia            | Offensive Powershell 101                           | [Link]("/assets/Offensive Powershell 101 - g0ttfrid.pdf")                           |
 | 1   | 15/12 | Paulo Sizino         | O que olhamos quando o rackudão aparece!?          | [Link](inserir_link_aqui)                           |
 | 2   | 02/03 | Italo Santana        | Laravel Mass Assignment                            | [Link](inserir_link_aqui)                           |
 | 2   | 02/03 | Marcus Jordhan       | PHP Type Juggling                                  | [Link](inserir_link_aqui)                           |
