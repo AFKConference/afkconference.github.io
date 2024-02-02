@@ -12,3 +12,5 @@
 <a href="/assets/Yara Rules- Eneto.pdf">Yara Rules - Eneto</a>
 
 # Palestra(s) realizada(s) no ano de 2024.
+
+<a href="/assets/Hacks em fechaduras - evi3w.pdf">Hacks em fechaduras - evi3w</a>
