@@ -26,10 +26,10 @@
 | 4   | 01/06 | Augusto Gaspareto    | Splunk na prática                                  |                            |
 | 5   | 06/07 | Yuri Maia            | Atomic Red Team                                    | [Link](assets/Atomic RedTeam - g0ttfrid.pdf)                           |
 | 5   | 06/07 | Euler Neto           | Defeating Anti-Reversing Tricks                    | [Link](assets/Defeating Anti-Reversing Tricks - Eneto.pdf)                           |
-| 6   | 03/08 | Neo Vedder           | Auditoria de endpoints com Loqed                   |                            |
+| 6   | 03/08 | Neo Vedder           | Auditoria de endpoints com Loqed                   | [Link](assets/Neo Vedder Loqed AFK.conf.pdf)                           |
 | 6   | 03/08 | Hiago Moura          | IoT Concepts                                       |                            |
 | 7   | 11/09 | Filipe Cordeiro      | Bypass Pinning Flutter                             | [Link](assets/Bypassing Flutter SSL Pinning - evi3w.pdf)                           |
-| 7   | 11/09 | Neo Vedder           | PAM                                                |                            |
+| 7   | 11/09 | Neo Vedder           | PAM                                                | [Link](assets/Neo Vedder PAM AFK.conf.pdf)                            |
 | 8   | 05/10 | Yuri Maia            | Offensive Powershell: Unmanaged Powershell         |                           |
 | 8   | 05/10 | Filipe Cordeiro      | Mobile Hacking - Tips and Tricks                   |                            |
 | 9  | 09/11 | Euler Neto           | Telegram, Discord C2                               |                            |
@@ -39,7 +39,7 @@
 
 | #   | Data  | Responsável         | Tema                                                | Link do Arquivo                                     |
 |-----|-------|---------------------|-----------------------------------------------------|-----------------------------------------------------|
-| 1   | 11/01 | Neo Vadder          | OpenIOC                                             |                            |
+| 1   | 11/01 | Neo Vedder          | OpenIOC                                             | [Link](assets/Neo Vedder OPENIOC AFK.pdf)                            |
 | 1   | 11/01 | Paulo Sizino        | Tratamento de incidentes                            |                            |
 | 2   | 01/02 | Filipe Cordeiro     | Hacks em fechaduras para teste de intrusão físico   | [Link](assets/Hacks em fechaduras - evi3w.pdf)                           |
 | 2   | 01/02 | Waira Prates        | Alerta de vulnerabilidades, spam ou necessidade     |                            |
