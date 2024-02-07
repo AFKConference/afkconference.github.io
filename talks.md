@@ -39,7 +39,7 @@
 
 | #   | Data  | Responsável         | Tema                                                | Link do Arquivo                                     |
 |-----|-------|---------------------|-----------------------------------------------------|-----------------------------------------------------|
-| 1   | 11/01 | Neo Vedder          | OpenIOC                                             | [Link](assets/Neo Vedder OPENIOC AFK.pdf)                            |
-| 1   | 11/01 | Paulo Sizino        | Tratamento de incidentes                            |                            |
-| 2   | 01/02 | Filipe Cordeiro     | Hacks em fechaduras para teste de intrusão físico   | [Link](assets/Hacks em fechaduras - evi3w.pdf)                           |
+| 1   | 11/01 | Neo Vedder          | OpenIOC                                             | [Link](assets/Neo Vedder OPENIOC AFK.pdf)           |
+| 1   | 11/01 | Paulo Sizino        | Tratamento de incidentes                            | [Link](assets/Tratamento de incidentes.pdf)           |
+| 2   | 01/02 | Filipe Cordeiro     | Hacks em fechaduras para teste de intrusão físico   | [Link](assets/Hacks em fechaduras - evi3w.pdf)      |
 | 2   | 01/02 | Waira Prates        | Alerta de vulnerabilidades, spam ou necessidade     |                            |
