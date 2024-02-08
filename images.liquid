@@ -1,0 +1,13 @@
+---
+layout: default
+title: Imagens
+---
+
+## Index of /Imagens/
+
+{% for year in (2022..2024) %}
+  {% assign directory = '/assets/' | append: year | append: '/' %}
+  - [{{ year }}]({{ directory }})
+{% endfor %}
+
+
