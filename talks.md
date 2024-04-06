@@ -46,5 +46,5 @@
 | 27   | 07/03 | Kaue Navarro        | Subdomain Takeover     |                            |
 | 28  | 07/03 | Yuri Maia        | Windows Internals 101     |                            |
 | 29   | 07/03 | Filipe Cordeiro        | How I Bypassed the Talsec's FreeRasp     | Demonstração sem slide xD                            |
-| 30   | 04/04 | Gabriel Luiz        | AWS - Acessando uma conta a partir de uma vulnerabilidade web     |                            |
-| 31   | 04/04 | Marcus Lelis        | Melhores práticas em segurança de aplicações (AppSec)     |                            |
+| 30   | 04/04 | Gabriel Luiz        | AWS - Acessando uma conta a partir de uma vulnerabilidade web     | [Link](assets/AWS-afk.conf.pdf) |
+| 31   | 04/04 | Marcus Lelis        | Melhores práticas em segurança de aplicações (AppSec)     | [Link](assets/AppSec - AFKCONF.pptx.pdf)     |
