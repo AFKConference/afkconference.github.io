@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Index Of Images</title>
+</head>
+<body>
+    <h1>Index Ofo</h1>
+    <a href="#" id="viewDirectoryLink">Clique aqui para visualizar o conteúdo do diretório</a>
+    <div id="directoryContent"></div>
+
+    <script>
+        document.getElementById('viewDirectoryLink').onclick = function() {
+            fetch('/assets/images/')
+                .then(response => response.text())
+                .then(data => {
+                    document.getElementById('directoryContent').innerText = data;
+                })
+                .catch(error => console.error('Erro ao obter conteúdo do diretório:', error));
+        };
+    </script>
+</body>
+</html>
