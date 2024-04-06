@@ -6,7 +6,7 @@
 | #   | Data  | Responsável          | Tema                                               | Link do Arquivo                                     |
 |-----|-------|----------------------|----------------------------------------------------|-----------------------------------------------------|
 | 1   | 15/12 | Euler Neto           | Investigando Transações em Bitcoin                 |                                                     |
-| 1   | 15/12 | Yuri Maia            | Offensive Powershell 101                           | [Link](assets/Offensive Powershell 101 - g0ttfrid.pdf)                           |
+| 1   | 15/12 | Yuri Maia            | Offensive Powershell 101                           | [Link](/assets/Offensive Powershell 101 - g0ttfrid.pdf)                           |
 | 1   | 15/12 | Paulo Sizino         | O que olhamos quando o rackudão aparece!?          |                            |
 
 
