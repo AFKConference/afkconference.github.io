@@ -1,4 +1,4 @@
 # 0x03 - Imagens
 
-[Fotos de todas as edições](/assets/2022/)
+[Picture of all editions](images.html)
 
