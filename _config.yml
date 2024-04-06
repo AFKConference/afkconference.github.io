@@ -5,7 +5,7 @@
 header_pages:
    - index.md
    - talks.md
-   - images.md
+   - images.html
 
 footer: '<a href="http://phrack.org">phrack.org</a> | <a href="https://www.h2hc.com.br/h2hc/pt/evento">H2HC</a> | <a href="https://nullbyte-con.org/">NullByte</a> | <a href="https://www.x33fcon.com/#!about.md">x33fcon</a> | <a href="https://defcon.org/html/links/dc-faq/dc-faq.html">DEFCON</a>'
 
