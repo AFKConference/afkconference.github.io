@@ -48,3 +48,7 @@
 | 29   | 07/03 | Filipe Cordeiro        | How I Bypassed the Talsec's FreeRasp     | Demonstração sem slide xD                            |
 | 30   | 04/04 | Gabriel Luiz        | AWS - Acessando uma conta a partir de uma vulnerabilidade web     | [Link](assets/AWS-afk.conf.pdf) |
 | 31   | 04/04 | Marcus Lelis        | Melhores práticas em segurança de aplicações (AppSec)     | [Link](assets/AppSec - AFKCONF.pptx.pdf)     |
+| 32  | 10/05 | Filipe Cordeiro        | Hooking Android Native Code w/     |                            |
+| 33   | 10/05 | Euler Neto        | Analysing Cryptography Malware     |                             |
+| 34   | 11/07 | Helvio (SEC4US)        | HookChain Techinique     |  |
+| 35   | 11/07 | C4ng4c31r0        | Hacking R1f45 4fun and pr0f1t     |      |
