@@ -44,7 +44,7 @@
 | 25   | 01/02 | Filipe Cordeiro     | Hacks em fechaduras para teste de intrusão físico   | [Link](assets/Hacks em fechaduras - evi3w.pdf)      |
 | 26   | 01/02 | Waira Prates        | Alerta de vulnerabilidades, spam ou necessidade     |                            |
 | 27   | 07/03 | Kaue Navarro        | Subdomain Takeover     |                            |
-| 28  | 07/03 | Yuri Maia        | Windows Internals 101     |                            |
+| 28  | 07/03 | Yuri Maia            | Windows Internals 101 | [Link](assets/AFK.conf_WindowsInternals101 - g0ttfrid.pdf)|
 | 29   | 07/03 | Filipe Cordeiro        | How I Bypassed the Talsec's FreeRasp     | Demonstração sem slide xD                            |
 | 30   | 04/04 | Gabriel Luiz        | AWS - Acessando uma conta a partir de uma vulnerabilidade web     | [Link](assets/AWS-afk.conf.pdf) |
 | 31   | 04/04 | Marcus Lelis        | Melhores práticas em segurança de aplicações (AppSec)     | [Link](assets/AppSec - AFKCONF.pptx.pdf)     |
