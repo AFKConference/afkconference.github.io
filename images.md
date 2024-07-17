@@ -1,4 +1,4 @@
 # 0x03 - Imagens
 
-[Picture of all editions](images.html)
+![](assets/IMG_5256.JPG)
 
