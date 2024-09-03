@@ -48,7 +48,10 @@
 | 14   | 07/03 | Filipe Cordeiro        | How I Bypassed the Talsec's FreeRasp     | Demonstração sem slide xD                            |
 | 15   | 04/04 | Gabriel Luiz        | AWS - Acessando uma conta a partir de uma vulnerabilidade web     | [Link](assets/AWS-afk.conf.pdf) |
 | 15   | 04/04 | Marcus Lelis        | Melhores práticas em segurança de aplicações (AppSec)     | [Link](assets/AppSec - AFKCONF.pptx.pdf)     |
-| 16  | 10/05 | Filipe Cordeiro        | Hooking Android Native Code w/     |                            |
-| 16   | 10/05 | Euler Neto        | Analysing Cryptography Malware     |                             |
-| 17   | 11/07 | Helvio (SEC4US)        | HookChain Techinique     |  |
-| 17   | 11/07 | C4ng4c31r0        | Hacking R1f45 4fun and pr0f1t     |      |
+| 16  | 10/05 | Filipe Cordeiro        | Hooking Android Native Code w/                                        |                                   |
+| 16   | 10/05 | Euler Neto        | Analysing Cryptography Malware                                            |                                   |
+| 17   | 11/07 | Helvio (SEC4US)        | HookChain Techinique                                                 |                                   | 
+| 17   | 11/07 | C4ng4c31r0        | Hacking R1f45 4fun and pr0f1t                                             |                                   |
+| 18   | 08/08 | Paulo Sizino      | Brincando com hardware hacking                                            |                                   |
+| 18   | 08/08 | Gabriel Luiz      | OWASP ASVS - Review eWPTX Certification                                   | [Link](assets/Project (1).pdf)    |
+| 18   | 08/08 | Filipe Cordeiro   | A newbie vs Google App Licensing (libpairipcore.so)                       |                                   |
