@@ -21,8 +21,8 @@
 | 3   | 06/04 | Guilherme Teixeira   | OSINT - Ferramentas                                |                            |
 | 4   | 04/05 | Yuri Maia            | Red Team - Assumed Breach Model                    | [Link](assets/Assumed Breach Model - g0ttfrid.pdf)                           |
 | 4   | 04/05 | Paulo Sizino         | Sysinternals tools                                 |                            |
-| 5  | 01/06 | Marcus Jordhan       | SSRF                                               |                            |
-| 5  | 01/06 | Hiago Moura          | Chat GPT para segurança ofensiva                   |                            |
+| 5   | 01/06 | Marcus Jordhan       | SSRF                                               |                            |
+| 5   | 01/06 | Hiago Moura          | Chat GPT para segurança ofensiva                   |                            |
 | 5   | 01/06 | Augusto Gaspareto    | Splunk na prática                                  |                            |
 | 6   | 06/07 | Yuri Maia            | Atomic Red Team                                    | [Link](assets/Atomic RedTeam - g0ttfrid.pdf)                           |
 | 6   | 06/07 | Euler Neto           | Defeating Anti-Reversing Tricks                    | [Link](assets/Defeating Anti-Reversing Tricks - Eneto.pdf)                           |
@@ -53,5 +53,17 @@
 | 17   | 11/07 | Helvio (SEC4US)        | HookChain Techinique                                                 |                                   | 
 | 17   | 11/07 | C4ng4c31r0        | Hacking R1f45 4fun and pr0f1t                                             |                                   |
 | 18   | 08/08 | Paulo Sizino      | Brincando com hardware hacking                                            |                                   |
-| 18   | 08/08 | Gabriel Luiz      | OWASP ASVS - Review eWPTX Certification                                   | [Link](assets/Project (1).pdf)    |
-| 18   | 08/08 | Filipe Cordeiro   | A newbie vs Google App Licensing (libpairipcore.so)                       |                                   |
+| 18   | 08/08 | Gabriel Luiz      | OWASP ASVS - Review eWPTX                                   | [Link](assets/Project (1).pdf)    |
+| 18   | 08/08 | Filipe Cordeiro   | Study case - Fighting with libpairipcore.so                       |                                   |
+| 19   | 05/09 | TBD      | TBD                                            |                                   |
+| 19   | 05/09 | TBD      | TBD                                   |     |
+| 19   | 05/09 | TBD   | TBD                       |                                   |
+| 20   | 03/10 | TBD      | TBD                                            |                                   |
+| 20   | 03/10 | TBD      | TBD                                   |     |
+| 20   | 03/10 | TBD   | TBD                       |                                   |
+| 21   | 07/11 | TBD      | TBD                                            |                                   |
+| 21   | 07/11 | TBD      | TBD                                   |     |
+| 21   | 07/11 | TBD   | TBD                       |                                   |
+| 22   | 05/12 | TBD      | TBD                                            |                                   |
+| 22   | 05/12 | TBD      | TBD                                   |     |
+| 22   | 05/12 | TBD   | TBD                       |                                   |
