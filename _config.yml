@@ -7,7 +7,7 @@ header_pages:
    - talks.md
    - imadges.md
 
-footer: '<a href="http://phrack.org">phrack.org</a> | <a href="https://www.h2hc.com.br/h2hc/pt/evento">H2HC</a> | <a href="https://nullbyte-con.org/">NullByte</a> | <a href="https://www.x33fcon.com/#!about.md">x33fcon</a> | <a href="https://defcon.org/html/links/dc-faq/dc-faq.html">DEFCON</a>'
+footer: '<a href="http://phrack.org">phrack.org</a> | <a href="https://www.h2hc.com.br/h2hc/pt/evento">H2HC</a> | <a href="https://nullbyte-con.org/">NullByte</a> | <a href="https://www.x33fcon.com/#!about.md">x33fcon</a> | <a href="https://defcon.org/html/links/dc-faq/dc-faq.html">DEFCON</a> | <a href="https://www.cajusec.com.br/">CajuSEC</a> | <a href="https://hackbahia.github.io">HackBahia</a>'
 
 style: hacker # dark (default) or light
 # listen_for_clients_preferred_style: true # true or false (default)
