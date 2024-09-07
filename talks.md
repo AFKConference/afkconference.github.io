@@ -55,5 +55,5 @@
 | 18   | 08/08 | Paulo Sizino      | Brincando com hardware hacking                                            |                                   |
 | 18   | 08/08 | Gabriel Luiz      | OWASP ASVS - Review eWPTX                                   | [Link](assets/Project (1).pdf)    |
 | 18   | 08/08 | Filipe Cordeiro   | Study case - Fighting with libpairipcore.so                       |                                   |
-| 19   | 05/09 | Kaue Navarro      | O que é Bug Bounty                 |                                   |
+| 19   | 05/09 | Kaue Navarro      | O que é Bug Bounty                 |  [Link](assets/O QUE BUGBOUNTY.pdf)                                 |
 | 19   | 05/09 | Yuri Maia      | MalDev Essentials: Process Injection  | [Link](assets/AFK.conf_ProcessInjection.pdf)     |
