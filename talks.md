@@ -57,4 +57,14 @@
 | 19  | 10/10  | Filipe Cordeiro          | libpairipcore - The enemy is dead               | [Link](assets/)            |
 | 20  | 10/10  | Jh0rd4n       | Contornando EDRs                                 | [Link](assets/)                      |
 | 21  | 07/11  | Wires         | Pentest em APIs               | [Link](assets/)            |
-| 21  | 07/11  | Euler Neto       | ROP Chain                                 | [Link](assets/)                      |
+| 22  | 19/11  | Gabriel Luiz       | Bypass no GCP com um protocolo "desconhecido"                                 | [Link](assets/)                      |
+
+## Palestras realizadas no ano de 2025
+
+| #   | Data   | Responsável        | Tema                                               | Link do Arquivo                                         |
+|-----|--------|-------------------|----------------------------------------------------|---------------------------------------------------------|
+| 23  | 14/01  | To be defined         | TBD                                            | [Link](assets/)               |
+| 23  | 14/01  | To be defined      | TBD                           | [Link](assets/)             |
+
+
+
