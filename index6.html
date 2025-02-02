@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AFK.conf - Away From Keyboard - Aracaju, Sergipe.</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: black;
+            color: green;
+        }
+        .window {
+            width: 900px;
+            height: 700px;
+            background-color: #101010;
+            border: 2px solid green;
+            box-shadow: 3px 3px 5px green;
+            display: flex;
+            flex-direction: column;
+            position: absolute;
+            top: 10%;
+            left: 50%;
+            transform: translate(-50%, 0);
+            transition: transform 0.3s ease, top 0.3s ease;
+            cursor: grab;
+        }
+        .window:active {
+            cursor: grabbing;
+        }
+        .title-bar {
+            background: green;
+            color: black;
+            padding: 3px;
+            font-size: 16px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            cursor: move;
+        }
+        .title-bar span {
+            flex-grow: 1;
+        }
+        .menu-bar {
+            background: #202020;
+            padding: 2px 5px;
+            font-size: 16px;
+        }
+        .menu-bar a {
+            color: green;
+            text-decoration: none;
+            margin-right: 10px;
+            cursor: pointer;
+        }
+        .menu-bar a:hover {
+            text-decoration: underline;
+        }
+        .editor-container {
+            flex: 1;
+            padding: 5px;
+            background: rgba(0, 0, 0, 0.7);
+            font-family: "Courier New", monospace;
+            font-size: 16px;
+            overflow: auto;
+            border: 1px solid green;
+        }
+        .status-bar {
+            background: green;
+            color: black;
+            font-size: 16px;
+            padding: 2px 5px;
+        }
+        .window-buttons {
+            display: flex;
+            gap: 10px;
+            margin-left: 10px;
+        }
+        .window-buttons div {
+            width: 20px;
+            height: 20px;
+            background-color: #333;
+            color: green;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            cursor: pointer;
+            font-size: 14px;
+        }
+        .window-buttons div:hover {
+            background-color: green;
+            color: black;
+        }
+    </style>
+</head>
+<body>
+    <div class="window" id="main-window">
+        <div class="title-bar" id="title-bar">
+            <span>AFK.conf - Away From Keyboard - Aracaju, Sergipe.</span>
+            <div class="window-buttons">
+                <div id="minimize">-</div>
+                <div id="maximize">□</div>
+                <div id="close">X</div>
+            </div>
+        </div>
+        <div class="menu-bar">
+            <a onclick="loadContent('2022')">Ed 2022</a>
+            <a onclick="loadContent('2023')">Ed 2023</a>
+            <a onclick="loadContent('2024')">Ed 2024</a>
+            <a onclick="loadContent('2025')">Ed 2025</a>
+            <a onclick="loadAbout()">About</a>
+        </div>
+        <div class="editor-container" id="editor-container">
+            <pre style="text-align: center;">
+ █████╗ ███████╗██╗  ██╗    ██████╗ ██████╗ ███╗   ██╗███████╗
+██╔══██╗██╔════╝██║ ██╔╝   ██╔════╝██╔═══██╗████╗  ██║██╔════╝
+███████║█████╗  █████╔╝    ██║     ██║   ██║██╔██╗ ██║█████╗
+██╔══██║██╔══╝  ██╔═██╗    ██║     ██║   ██║██║╚██╗██║██╔══╝
+██║  ██║██║     ██║  ██╗██╗╚██████╗╚██████╔╝██║ ╚████║██║
+╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝╚═╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝
+</pre>
+            <p>Bem vindo(a)!</p>
+            <p>AFK.conf foi criado com o intuito de movimentar a cena hacker/SI em Aracaju, proporcionando encontros mensais com apresentações técnicas de segurança ofensiva e defensiva, em um ambiente informal acompanhado com algumas cervejas.</p>
+            <p>No fim, a ideia é compartilhar conhecimento, mostrar novas (e velhas) técnicas relacionadas ao hacking/SI, conhecer pessoas, orientar outros em áreas nas quais você pode ser forte e proporcionar alguma cultura hacker pros participantes.</p>
+            <p>As reuniões estão abertas a qualquer pessoa, independentemente de sua habilidade, idade, trabalho, gênero, etc.</p>
+            <p>[+] Encontros</p>
+            <p>Os encontros não serão gravados nem existe a possibilidade de palestras online. Todas as palestras deverão ser proporcionadas por pessoas que estão fisicamente no local para pessoas que estão fisicamente no local (AFK ¯\(ツ)/¯).</p>
+            <p>Para manter a rotatividade e instigar para que todos tenham o espaço e experiencia de realizar uma palestra, fica vetado que o mesmo palestrante apresente em dois encontros seguidos.</p>
+            <p>[!] Trate todos com respeito!</p>
+        </div>
+        <div class="status-bar">H2HC, HackBahia, NullByte, CajuSEC</div>
+    </div>
+
+    <script>
+        let windowElement = document.getElementById('main-window');
+        let titleBar = document.getElementById('title-bar');
+        let isDragging = false;
+        let offsetX, offsetY;
+
+        // Função para iniciar o arraste
+        titleBar.addEventListener('mousedown', function(e) {
+            isDragging = true;
+            offsetX = e.clientX - windowElement.offsetLeft;
+            offsetY = e.clientY - windowElement.offsetTop;
+            windowElement.style.cursor = 'grabbing';
+        });
+
+        // Função para arrastar a janela
+        window.addEventListener('mousemove', function(e) {
+            if (isDragging) {
+                windowElement.style.top = (e.clientY - offsetY) + 'px';
+                windowElement.style.left = (e.clientX - offsetX) + 'px';
+            }
+        });
+
+        // Função para parar o arraste
+        window.addEventListener('mouseup', function() {
+            isDragging = false;
+            windowElement.style.cursor = 'grab';
+        });
+
+        function loadContent(year) {
+            let content = ''; // Variável para armazenar o conteúdo da edição.
+            
+            if (year === '2022') {
+                content = `
+                    <h2>Edição 2022</h2>
+                    <p>Conteúdo específico para a edição de 2022.</p>
+                    <p>Detalhes sobre palestras e temas abordados naquele ano.</p>
+                `;
+            } else if (year === '2023') {
+                content = `
+                    <h2>Edição 2023</h2>
+                    <p>Conteúdo específico para a edição de 2023.</p>
+                    <p>Aqui discutimos novas técnicas em segurança ofensiva.</p>
+                `;
+            } else if (year === '2024') {
+                content = `
+                    <h2>Edição 2024</h2>
+                    <p>Conteúdo específico para a edição de 2024.</p>
+                    <p>Foco em novas ferramentas e metodologias de hacking.</p>
+                `;
+            } else if (year === '2025') {
+                content = `
+                    <h2>Edição 2025</h2>
+                    <p>Conteúdo específico para a edição de 2025.</p>
+                    <p>Exploração de técnicas emergentes em segurança e privacidade digital.</p>
+                `;
+            }
+
+            document.getElementById('editor-container').innerHTML = content;
+        }
+
+        function loadAbout() {
+            document.getElementById('editor-container').innerHTML = `
+                <pre style="text-align: center;">
+ █████╗ ███████╗██╗  ██╗    ██████╗ ██████╗ ███╗   ██╗███████╗
+██╔══██╗██╔════╝██║ ██╔╝   ██╔════╝██╔═══██╗████╗  ██║██╔════╝
+███████║█████╗  █████╔╝    ██║     ██║   ██║██╔██╗ ██║█████╗
+██╔══██║██╔══╝  ██╔═██╗    ██║     ██║   ██║██║╚██╗██║██╔══╝
+██║  ██║██║     ██║  ██╗██╗╚██████╗╚██████╔╝██║ ╚████║██║
+╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝╚═╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝
+</pre>
+            <p>Bem vindo(a)!</p>
+            <p>AFK.conf foi criado com o intuito de movimentar a cena hacker/SI em Aracaju, proporcionando encontros mensais com apresentações técnicas de segurança ofensiva e defensiva, em um ambiente informal acompanhado com algumas cervejas.</p>
+            <p>No fim, a ideia é compartilhar conhecimento, mostrar novas (e velhas) técnicas relacionadas ao hacking/SI, conhecer pessoas, orientar outros em áreas nas quais você pode ser forte e proporcionar alguma cultura hacker pros participantes.</p>
+            <p>As reuniões estão abertas a qualquer pessoa, independentemente de sua habilidade, idade, trabalho, gênero, etc.</p>
+            <p>[+] Encontros</p>
+            <p>Os encontros não serão gravados nem existe a possibilidade de palestras online. Todas as palestras deverão ser proporcionadas por pessoas que estão fisicamente no local para pessoas que estão fisicamente no local (AFK ¯\(ツ)/¯).</p>
+            <p>Para manter a rotatividade e instigar para que todos tenham o espaço e experiencia de realizar uma palestra, fica vetado que o mesmo palestrante apresente em dois encontros seguidos.</p>
+            <p>[!] Trate todos com respeito!</p>
+        `;
+        }
+    </script>
+</body>
+</html>
