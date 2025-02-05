@@ -57,14 +57,17 @@
 | 19  | 10/10  | Filipe Cordeiro          | libpairipcore - The enemy is dead               | [Link](assets/)            |
 | 20  | 10/10  | Jh0rd4n       | Contornando EDRs                                 | [Link](assets/)                      |
 | 21  | 07/11  | Wires         | Pentest em APIs               | [Link](assets/)            |
-| 22  | 19/11  | Gabriel Luiz       | Bypass no GCP com um protocolo "desconhecido"                                 | [Link](assets/)                      |
+| 22  | 05/12  | Gabriel Luiz       | Bypass no GCP com um protocolo "desconhecido"                                 | [Link](assets/)                      |
 
 ## Palestras realizadas no ano de 2025
 
 | #   | Data   | Responsável        | Tema                                               | Link do Arquivo                                         |
 |-----|--------|-------------------|----------------------------------------------------|---------------------------------------------------------|
-| 23  | 14/01  | To be defined         | TBD                                            | [Link](assets/)               |
-| 23  | 14/01  | To be defined      | TBD                           | [Link](assets/)             |
+| 23  | 14/01  | Kauê Navarro         | Google Sheets for Red Team                      | [Link](assets/)             |
+| 23  | 14/01  | Filipe Cordeiro      | Teste em aplicações iOS - Por onde começar?     | [Link](assets/)             |
+| 24  | 04/02  | Paulo Sizino         | Threat Hunting                                  | [Link](assets/)             |
+| 24  | 04/02  | Euler Neto           | ROP Chain                                       | [Link](assets/)             |
+| 24  | 04/02  | Yuri Maia            | EDR API Hooking 101                             | [Link](assets/)             |
 
 
 
