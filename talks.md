@@ -45,7 +45,7 @@
 | 14  | 07/03  | Yuri Maia          | Windows Internals 101                              | [Link](assets/AFK.conf_WindowsInternals101 - g0ttfrid.pdf) |
 | 14  | 07/03  | Filipe Cordeiro    | How I Bypassed the Talsec's FreeRasp               |                               |
 | 15  | 04/04  | Gabriel Luiz       | AWS - Acessando uma conta a partir de uma vulnerabilidade web | [Link](assets/AWS-afk.conf.pdf)                  |
-| 15  | 04/04  | Marcus Lelis       | Melhores práticas em segurança de aplicações (AppSec) | [Link](assets/AppSec - AFKCONF.pptx.pdf)          |
+| 15  | 04/04  | Marcus Jhordan     | Melhores práticas em segurança de aplicações (AppSec) | [Link](assets/AppSec - AFKCONF.pptx.pdf)          |
 | 16  | 10/05  | Filipe Cordeiro    | Hooking Android Native Code w/                     |                                                         |
 | 16  | 10/05  | Euler Neto         | Analysing Cryptography Malware                     |                                                         |
 | 17  | 11/07  | Helvio Junior      | HookChain Techinique                               |                                                         |
@@ -54,15 +54,16 @@
 | 18  | 08/08  | Gabriel Luiz       | OWASP ASVS - Review eWPTX                          | [Link](assets/Project (1).pdf)                          |
 | 18  | 08/08  | Filipe Cordeiro    | Study case - Fighting with libpairipcore.so        |                                                         |
 | 19  | 05/09  | Kaue Navarro       | O que é Bug Bounty                                 | [Link](assets/O QUE BUGBOUNTY.pdf)                      |
-| 19  | 10/10  | Filipe Cordeiro          | libpairipcore - The enemy is dead               |            |
-| 20  | 10/10  | Marcus Jhordan       | Contornando EDRs                                 |                      |
-| 21  | 07/11  | Wires         | Pentest em APIs               |             |
+| 19  | 05/09  | Yuri Maia          | Process Injection             | [Link](assets/AFK.conf_ProcessInjection.pdf)            |
+| 20  | 10/10  | Filipe Cordeiro    | libpairipcore - The enemy is dead               |            |
+| 20  | 10/10  | Marcus Jhordan     | Contornando EDRs                                 |                      |
+| 21  | 07/11  | Wires              | Pentest em APIs               |             |
 | 22  | 05/12  | Gabriel Luiz       | Bypass no GCP com um protocolo "desconhecido"                                 |                      |
 
 ## Palestras realizadas no ano de 2025
 
 | #   | Data   | Responsável        | Tema                                               | Link do Arquivo                                         |
-|-----|--------|-------------------|----------------------------------------------------|---------------------------------------------------------|
+|-----|--------|--------------------|----------------------------------------------------|---------------------------------------------------------|
 | 23  | 14/01  | Kauê Navarro         | Google Sheets for Red Team                      |           |
 | 23  | 14/01  | Filipe Cordeiro      | Teste em aplicações iOS - Por onde começar?     |             |
 | 24  | 04/02  | Paulo Sizino         | Threat Hunting                                  |              |
