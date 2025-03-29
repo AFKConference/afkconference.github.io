@@ -69,6 +69,6 @@
 | 24  | 04/02  | Paulo Sizino         | Threat Hunting                                  |              |
 | 24  | 04/02  | Euler Neto           | ROP Chain                                       |            |
 | 24  | 04/02  | Yuri Maia            | EDR Arch 101: API Hooking                       | [Link](assets/AFK.conf_EDRArch101.pdf)             |
-
-
-
+| 25 | 11/03 | Cirano Gonçalves | CloudSec | |
+| 25 | 11/03 | Jorge Lima | Vuln WEB (BAC & IDOR) | |
+| 25 | 11/03 | Filipe Cordeiro | Bypass hook Flutter (libapp.so) | |
