@@ -4,15 +4,15 @@
 ## Palestras realizadas no ano de 2022
 
 | #   | Data   | Responsável   | Tema                                           | Link do Arquivo                                           |
-|-----|--------|---------------|------------------------------------------------|-----------------------------------------------------------|
-| 1   | 15/12  | Euler Neto    | Investigando Transações em Bitcoin             |                                                           |
-| 1   | 15/12  | Yuri Maia     | Offensive Powershell 101                       | [Link](/assets/Offensive Powershell 101 - g0ttfrid.pdf)   |
-| 1   | 15/12  | Paulo Sizino  | O que olhamos quando o rackudão aparece!?      |                                                           |
+|-----|--------|----------------------|------------------------------------------------|-----------------------------------------------------------|
+| 1   | 15/12  | Euler Neto    | Investigando Transações em Bitcoin |                                                           |
+| 1   | 15/12  | Yuri Maia     | Offensive Powershell 101 | [Link](/assets/Offensive Powershell 101 - g0ttfrid.pdf)   |
+| 1   | 15/12  | Paulo Sizino  | O que olhamos quando o rackudão aparece!? |                                                           |
 
 ## Palestras realizadas no ano de 2023
 
 | #   | Data   | Responsável        | Tema                                             | Link do Arquivo                                         |
-|-----|--------|-------------------|--------------------------------------------------|---------------------------------------------------------|
+|-----|--------|----------------------|--------------------------------------------------|---------------------------------------------------------|
 | 2   | 02/03  | Italo Santana      | Laravel Mass Assignment                          |                                                         |
 | 2   | 02/03  | Marcus Jordhan     | PHP Type Juggling                                |                                                         |
 | 3   | 06/04  | Filipe Cordeiro    | Mobile Hacking (Android e iOS) - Introdução      | [Link](assets/Mobile Hacking - Uma introdução ao tema - evi3w.pdf) |
