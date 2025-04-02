@@ -12,7 +12,7 @@
 ## Palestras realizadas no ano de 2023
 
 | #   | Data   | Responsável        | Tema                                             | Link do Arquivo                                         |
-|-----|--------|:------------------------------|--------------------------------------------------|---------------------------------------------------------|
+|-----|--------|----------------------|------------------------------------------------|-----------------------------------------------------------|
 | 2   | 02/03  | Italo Santana      | Laravel Mass Assignment                          |                                                         |
 | 2   | 02/03  | Marcus Jordhan     | PHP Type Juggling                                |                                                         |
 | 3   | 06/04  | Filipe Cordeiro    | Mobile Hacking (Android e iOS) - Introdução      | [Link](assets/Mobile Hacking - Uma introdução ao tema - evi3w.pdf) |
@@ -72,3 +72,5 @@
 | 25 | 11/03 | Cirano Gonçalves | CloudSec | |
 | 25 | 11/03 | Jorge Lima | Vuln WEB (BAC & IDOR) | |
 | 25 | 11/03 | Filipe Cordeiro | Bypass hook Flutter (libapp.so) | |
+| 26 | 01/04 | Marcus Jhordan | Além do Pentest | |
+| 26 | 01/04 | Yuri Maia | Frida for Windows | |
